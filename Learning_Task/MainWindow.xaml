@@ -19,13 +19,20 @@
                    HorizontalAlignment="Center"
                    VerticalAlignment="Center"
                    Width="50" />
-      <Button x:Name="Save_Btn"
-              Click="Save_Btn_Click"
-              Content="Save" 
+      <Button x:Name="Write_Btn"
+              Click="Write_Btn_Click" 
+              Content="Write" 
               Margin="10 10" 
               HorizontalAlignment="Center"
               VerticalAlignment="Center"
               Width="50" />
+      <Button x:Name="Save_Btn"
+                Click="Save_Btn_Click"
+                Content="Save" 
+                Margin="10 10" 
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Width="50" />
     </StackPanel>
   </Grid>
 </Window>

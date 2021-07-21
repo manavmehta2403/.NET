@@ -24,7 +24,6 @@ namespace Learning_Task
     public MainWindow()
     {
       InitializeComponent();
-      File_TxtBx.Text = ConfigurationManager.AppSettings.Get("FilePath");
     }
 
     private void Save_Btn_Click(object sender, RoutedEventArgs e)
@@ -33,6 +32,11 @@ namespace Learning_Task
       config.AppSettings.Settings["FilePath"].Value = File_TxtBx.Text;
       ConfigurationManager.RefreshSection("appSettings");
       config.Save(ConfigurationSaveMode.Modified);
+    }
+
+    private void Write_Btn_Click(object sender, RoutedEventArgs e)
+    {
+      File_TxtBx.Text = ConfigurationManager.AppSettings.Get("FilePath");
     }
   }
 }

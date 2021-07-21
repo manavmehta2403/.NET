@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\WPF_Basic\\WPF_Basic.csproj": {}
+    "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\WPF_Basic\\WPF_Basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\WPF_Basic\\WPF_Basic.csproj": {
+    "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\WPF_Basic\\WPF_Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\WPF_Basic\\WPF_Basic.csproj",
+        "projectUniqueName": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\WPF_Basic\\WPF_Basic.csproj",
         "projectName": "WPF_Basic",
-        "projectPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\WPF_Basic\\WPF_Basic.csproj",
+        "projectPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\WPF_Basic\\WPF_Basic.csproj",
         "packagesPath": "C:\\Users\\mehtama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\WPF_Basic\\obj\\",
+        "outputPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\WPF_Basic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\bin\Debug\Learning_Task.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\bin\Debug\Learning_Task.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\bin\Debug\Learning_Task.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\MainWindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\MainWindow.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Arch-Understanding\Learning_Task\obj\Debug\Learning_Task.pdb

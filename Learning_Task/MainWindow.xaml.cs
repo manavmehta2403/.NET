@@ -36,7 +36,13 @@ namespace Learning_Task
 
     private void Write_Btn_Click(object sender, RoutedEventArgs e)
     {
+      Write("Written");
+    }
+
+    public string Write(string STR) 
+    {
       File_TxtBx.Text = ConfigurationManager.AppSettings.Get("FilePath");
+      return STR;
     }
   }
 }

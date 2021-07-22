@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VY61+8d4TVPY4vMF1I+o9EaGRvHZvihZn7wfoe65YoUliIG5NFuiE6fIWE1tmrN3qccEjn8xUfypCdLs4dMMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Arch-Understanding\\.NET\\Test_Task\\Learning_Task_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehtama\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\mehtama\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

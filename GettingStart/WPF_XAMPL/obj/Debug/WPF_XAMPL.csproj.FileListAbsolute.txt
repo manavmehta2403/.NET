@@ -1,0 +1,15 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\bin\Debug\WPF_XAMPL.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\bin\Debug\WPF_XAMPL.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\bin\Debug\WPF_XAMPL.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\MainWindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\MainWindow.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\GettingStart\WPF_XAMPL\obj\Debug\WPF_XAMPL.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnavasWORK", "CnavasWORK.csproj", "{FEC8DE37-337A-4B29-9FD9-79F5F9B01CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC8DE37-337A-4B29-9FD9-79F5F9B01CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC8DE37-337A-4B29-9FD9-79F5F9B01CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC8DE37-337A-4B29-9FD9-79F5F9B01CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC8DE37-337A-4B29-9FD9-79F5F9B01CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CEF248C-EA05-4037-AA0F-1ECFBEAD13FA}
+	EndGlobalSection
+EndGlobal

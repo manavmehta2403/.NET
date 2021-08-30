@@ -1,0 +1,14 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\bin\Debug\MultiTriggers.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\bin\Debug\MultiTriggers.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\bin\Debug\MultiTriggers.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MainWindow.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Button\MultiTriggers\obj\Debug\MultiTriggers.pdb

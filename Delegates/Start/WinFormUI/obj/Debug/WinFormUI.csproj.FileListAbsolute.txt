@@ -1,0 +1,13 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\WinFormUI\obj\Debug\WinFormUI.pdb

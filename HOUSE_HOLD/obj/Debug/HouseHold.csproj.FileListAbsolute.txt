@@ -1,0 +1,7 @@
+C:\Users\manav\Documents\C#\HouseHold\bin\Debug\HouseHold.exe.config
+C:\Users\manav\Documents\C#\HouseHold\bin\Debug\HouseHold.exe
+C:\Users\manav\Documents\C#\HouseHold\bin\Debug\HouseHold.pdb
+C:\Users\manav\Documents\C#\HouseHold\obj\Debug\HouseHold.csprojAssemblyReference.cache
+C:\Users\manav\Documents\C#\HouseHold\obj\Debug\HouseHold.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\C#\HouseHold\obj\Debug\HouseHold.exe
+C:\Users\manav\Documents\C#\HouseHold\obj\Debug\HouseHold.pdb

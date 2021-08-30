@@ -1,0 +1,10 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\bin\Debug\CarConsole.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\bin\Debug\CarConsole.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\bin\Debug\CarConsole.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\obj\Debug\CarConsole.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\obj\Debug\CarConsole.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\obj\Debug\CarConsole.csproj.CopyComplete
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\obj\Debug\CarConsole.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\obj\Debug\CarConsole.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\bin\Debug\CarClass.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarConsole\bin\Debug\CarClass.pdb

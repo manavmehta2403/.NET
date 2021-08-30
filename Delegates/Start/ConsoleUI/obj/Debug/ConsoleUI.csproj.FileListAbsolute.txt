@@ -1,0 +1,10 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Delegates\Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

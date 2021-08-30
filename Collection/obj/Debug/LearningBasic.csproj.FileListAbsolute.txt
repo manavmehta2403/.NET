@@ -1,0 +1,7 @@
+C:\Users\manav\Documents\LearningBasic\bin\Debug\LearningBasic.exe.config
+C:\Users\manav\Documents\LearningBasic\bin\Debug\LearningBasic.exe
+C:\Users\manav\Documents\LearningBasic\bin\Debug\LearningBasic.pdb
+C:\Users\manav\Documents\LearningBasic\obj\Debug\LearningBasic.csprojAssemblyReference.cache
+C:\Users\manav\Documents\LearningBasic\obj\Debug\LearningBasic.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\LearningBasic\obj\Debug\LearningBasic.exe
+C:\Users\manav\Documents\LearningBasic\obj\Debug\LearningBasic.pdb

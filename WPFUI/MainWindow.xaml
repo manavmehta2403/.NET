@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUI"
+        mc:Ignorable="d"
+        Title="WPFUI" Height="350" Width="575">
+    <Border Padding="10">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="10"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:Name="Titlelbl" Grid.Row="1" Grid.Column="1"  Text="Demo Title" FontSize="24"
+                       Grid.ColumnSpan="3"  Margin="10,10"/>
+            <TextBlock x:Name="FirstNamelbl" Grid.Column="1" Grid.Row="2" Text="First Name" FontWeight="Black" FontSize="14" />
+            <TextBox x:Name="FirstNametxt" Grid.Row="2" Grid.Column="2" Width="100" Margin="10 0 0 0" Padding="2" />
+            <Button x:Name="showMessage" Grid.Column="1" Grid.Row="3" Content="Show Message"  Grid.ColumnSpan="2"  Margin="50,10" Click="showMessage_Click"/>
+            <!--The Restore Button icon customization-->
+        </Grid>
+    </Border>
+</Window>

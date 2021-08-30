@@ -1,0 +1,113 @@
+{
+  "machineInfosClientConfig": {
+    "actions": [
+      {
+        "input": {
+          "parameters": {
+            "publishingRate": 60000,
+            "samplingRate": 60000
+          },
+          "type": "OpcSubscription"
+        },
+        "output": {
+          "parameters": {
+            "handlingType": "MachineInfos"
+          },
+          "type": "Queue"
+        }
+      }
+    ],
+    "schemaVersion": 1
+  },
+  "machineInfosMetaData": {
+    "attributes": {
+      "businessUnit": {
+        "dataType": "string",
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Product department"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Produktbereich"
+          }
+        ]
+      },
+      "features": {
+        "dataType": "string",
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Features"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Funktionen"
+          }
+        ]
+      },
+      "machineFamily": {
+        "dataType": "string",
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Machine family"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Maschinen-Familie"
+          }
+        ]
+      },
+      "machineType": {
+        "dataType": "string",
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Machine type"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Maschinen-Typ"
+          }
+        ]
+      }
+    },
+    "metaDataType": "MachineInfos",
+    "schemaVersion": 8
+  },
+  "machineInfosValue": {
+    "businessUnit": 1,
+    "features": [
+      {
+        "name": "ProcessData",
+        "featureVersion": 1
+      },
+      {
+        "name": "ProductionPeriods",
+        "featureVersion": 1
+      },
+      {
+        "name": "AlarmHandling",
+        "featureVersion": 1
+      },
+      {
+        "name": "Check",
+        "featureVersion": 1
+      },
+      {
+        "name": "DefectCheck",
+        "featureVersion": 1
+      },
+      {
+        "name": "BarcodeCheck",
+        "featureVersion": 1
+      }
+    ],
+    "machineFamily": "FlexoPrint",
+    "machineType": "MIRAFLEX\"",
+    "schemaVersion": 3
+  },
+  "schemaVersion": 1
+}

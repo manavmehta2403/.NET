@@ -1,0 +1,7 @@
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\bin\Debug\ReverserSorter.exe.config
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\bin\Debug\ReverserSorter.exe
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\bin\Debug\ReverserSorter.pdb
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\obj\Debug\ReverserSorter.csprojAssemblyReference.cache
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\obj\Debug\ReverserSorter.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\obj\Debug\ReverserSorter.exe
+C:\Users\manav\Documents\Reverse Sorter\ReverserSorter\obj\Debug\ReverserSorter.pdb

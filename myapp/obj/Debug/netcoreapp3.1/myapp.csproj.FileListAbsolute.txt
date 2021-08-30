@@ -1,0 +1,26 @@
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+C:\Users\manav\Desktop\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\manav\Desktop\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+C:\Users\manav\Google Drive\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\manav\Google Drive\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache

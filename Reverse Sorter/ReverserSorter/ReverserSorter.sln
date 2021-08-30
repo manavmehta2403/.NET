@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverserSorter", "ReverserSorter.csproj", "{A08E37BE-B60F-43B8-87E8-BEF7F35A3328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08E37BE-B60F-43B8-87E8-BEF7F35A3328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08E37BE-B60F-43B8-87E8-BEF7F35A3328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08E37BE-B60F-43B8-87E8-BEF7F35A3328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08E37BE-B60F-43B8-87E8-BEF7F35A3328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6627EA-C38B-43C2-A8FA-F8B86BC4B93F}
+	EndGlobalSection
+EndGlobal

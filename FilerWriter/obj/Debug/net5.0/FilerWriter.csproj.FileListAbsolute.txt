@@ -1,0 +1,16 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.runtimeconfig.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.runtimeconfig.dev.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\ref\FilerWriter.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\bin\Debug\net5.0\FilerWriter.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\ref\FilerWriter.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\FilerWriter\obj\Debug\net5.0\FilerWriter.genruntimeconfig.cache

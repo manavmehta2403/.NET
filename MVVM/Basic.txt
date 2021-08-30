@@ -1,0 +1,3 @@
+Model--> Bussiness logic
+View--> View Data Model
+ViewModel--> Data manipulation

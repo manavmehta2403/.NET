@@ -1,0 +1,47 @@
+﻿<Window x:Class="TabAccess.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TabAccess"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="550">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label Content ="_First name:" Target="{Binding ElementName=txtFirstName}"></Label>
+            <TextBox x:Name="txtFirstName" TabIndex="0" />
+            <Label>Street name:</Label>
+            <TextBox TabIndex="2" />
+            <Label>City:</Label>
+            <TextBox TabIndex="5" IsReadOnly="True" IsTabStop="False" Background="Gainsboro" />
+        </StackPanel>
+        <StackPanel Grid.Column="2">
+            <Label Content="_Last name:" Target="{Binding ElementName=txtLastName}"></Label>
+            <TextBox x:Name="txtLastName" TabIndex="1" />
+            <Label>Zip Code:</Label>
+            <TextBox TabIndex="4" />
+        </StackPanel>
+        <Button Content="_Save" Grid.Row="1" HorizontalAlignment="Right" Width="80"></Button>
+        <Button Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" Width="80">Cancel</Button>
+        <StackPanel Grid.Column="3">
+            <TabControl TabStripPlacement="Top" Margin="1">
+                <TabItem Header="General">
+                    <Label Content="Content goes here..." />
+                </TabItem>
+                <TabItem Header="Security" />
+                <TabItem Header="Details" />
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>

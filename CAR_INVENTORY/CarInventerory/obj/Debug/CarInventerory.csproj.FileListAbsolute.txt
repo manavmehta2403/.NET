@@ -1,0 +1,7 @@
+C:\Users\manav\Documents\Classes\CarInventerory\bin\Debug\CarInventerory.exe.config
+C:\Users\manav\Documents\Classes\CarInventerory\bin\Debug\CarInventerory.exe
+C:\Users\manav\Documents\Classes\CarInventerory\bin\Debug\CarInventerory.pdb
+C:\Users\manav\Documents\Classes\CarInventerory\obj\Debug\CarInventerory.csprojAssemblyReference.cache
+C:\Users\manav\Documents\Classes\CarInventerory\obj\Debug\CarInventerory.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\Classes\CarInventerory\obj\Debug\CarInventerory.exe
+C:\Users\manav\Documents\Classes\CarInventerory\obj\Debug\CarInventerory.pdb

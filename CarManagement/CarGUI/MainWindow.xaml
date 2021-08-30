@@ -1,0 +1,72 @@
+﻿<Window x:Class="CarGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <GroupBox x:Name="Detail" Grid.Column="0" Header="Add a Car" HorizontalAlignment="Left" Height="324" Margin="18,10,0,0" VerticalAlignment="Top" Width="224">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Label   x:Name="lbl_model" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Model:" />
+                <Label   x:Name="lbl_maker" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Maker:" />
+                <Label   x:Name="lbl_vin"   Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Content="VIN:"   />
+                <Label   x:Name="lbl_year"  Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Year:"  />
+                <Label   x:Name="lbl_price" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Price:" />
+                <TextBox x:Name="txt_model" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,21" Width="86" />
+                <TextBox x:Name="txt_maker" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,21" Width="86" />
+                <TextBox x:Name="txt_vin"   Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,21" Width="86" />
+                <TextBox x:Name="txt_year"  Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,21" Width="86" />
+                <TextBox x:Name="txt_price" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,21" Width="86" />
+            </Grid>
+
+        </GroupBox>
+
+        <Button x:Name="btn_makeCar" Grid.Column="0" Content="Add Car" HorizontalAlignment="Left" Margin="90,367,0,0" VerticalAlignment="Top" Width="75" Click="btn_makeCar_Click"/>
+
+        <GroupBox Grid.Column="1" Header="Inventory" HorizontalAlignment="Left" Height="378" Margin="10.333,10,0,0" VerticalAlignment="Top" Width="210">
+            <ListView x:Name="warehouse" HorizontalAlignment="Left" Margin="10,10,0,8.667" Width="171" SelectionMode="Multiple" />
+        </GroupBox>
+
+        <GroupBox Grid.Column="2" Header="Shopping" HorizontalAlignment="Left" Height="324" Margin="40.667,10,0,0" VerticalAlignment="Top" Width="214">
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <ListView Grid.Row="0" x:Name="cart" HorizontalAlignment="Left" Margin="10,10,0,13.667" Width="178" />
+                <TextBlock x:Name="tb_total" HorizontalAlignment="Left" Height="17" Margin="96,17.333,0,0" Grid.Row="1" TextWrapping="Wrap" Text="$0.00" VerticalAlignment="Top" Width="73" TextAlignment="Right"/>
+                <Label x:Name="lbl_total" Content="Total" HorizontalAlignment="Left" Margin="25,10.333,0,0" Grid.Row="1" VerticalAlignment="Top" Width="52" Height="30" RenderTransformOrigin="0.551,0.628"/>
+            </Grid>
+        </GroupBox>
+
+        <Button x:Name="btn_checkout" Grid.Column="2" Content="Checkout" HorizontalAlignment="Left" Margin="106.667,367,0,0" VerticalAlignment="Top" Width="75" Click="btn_checkout_Click" />
+
+        <Button x:Name="btn_addToCart" Grid.ColumnSpan="2" Content="Add to Cart" Grid.Column="1" HorizontalAlignment="Left" Margin="225.333,200,0,0" VerticalAlignment="Top" Width="75" Click="btn_addToCart_Click"/>
+
+
+    </Grid>
+</Window>

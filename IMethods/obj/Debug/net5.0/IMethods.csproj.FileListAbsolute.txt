@@ -1,0 +1,16 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.runtimeconfig.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.runtimeconfig.dev.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\ref\IMethods.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\bin\Debug\net5.0\IMethods.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\ref\IMethods.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\IMethods\obj\Debug\net5.0\IMethods.genruntimeconfig.cache

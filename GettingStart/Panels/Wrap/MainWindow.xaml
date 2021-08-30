@@ -1,0 +1,31 @@
+﻿<Window x:Class="Wrap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wrap"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="400">
+    <StackPanel>
+    <WrapPanel>
+        <Button>Test button 1</Button>
+        <Button>Test button 2</Button>
+        <Button>Test button 3</Button>
+        <Button>Test button 4</Button>
+        <Button>Test button 5</Button>
+        <Button Height="140">Test button 6</Button>
+        <Button Width="250">Test button 7</Button>
+        <Button>Test button 8</Button>
+    </WrapPanel>
+    <WrapPanel Orientation="Vertical">
+        <Button>Test button 1</Button>
+        <Button>Test button 2</Button>
+        <Button>Test button 3</Button>
+        <Button>Test button 4</Button>
+        <Button>Test button 5</Button>
+        <Button Height="140">Test button 6</Button>
+        <Button Width="250">Test button 7</Button>
+        <Button>Test button 8</Button>
+    </WrapPanel>
+    </StackPanel>
+</Window>

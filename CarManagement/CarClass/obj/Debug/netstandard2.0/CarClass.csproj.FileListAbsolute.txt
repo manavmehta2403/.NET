@@ -1,0 +1,9 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\bin\Debug\netstandard2.0\CarClass.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\bin\Debug\netstandard2.0\CarClass.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\bin\Debug\netstandard2.0\CarClass.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\CarManagement\CarClass\obj\Debug\netstandard2.0\CarClass.pdb

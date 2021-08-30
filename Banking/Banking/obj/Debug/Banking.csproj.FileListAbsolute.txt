@@ -1,0 +1,7 @@
+C:\Users\manav\Documents\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\manav\Documents\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\manav\Documents\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\manav\Documents\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\manav\Documents\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\manav\Documents\Banking\Banking\obj\Debug\Banking.pdb

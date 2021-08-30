@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 6,
+  "address": "net.tcp://10.11.50.2:4242/PlcDataService",
+  "descriptions": {
+    "alarmLevelDescriptions": [
+      {
+        "level": 0,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Information"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Information"
+          }
+        ],
+        "lowSeverity": true
+      },
+      {
+        "level": 1,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Event"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Event"
+          }
+        ],
+        "lowSeverity": true
+      },
+      {
+        "level": 2,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Warning"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Warnung"
+          }
+        ],
+        "lowSeverity": false
+      },
+      {
+        "level": 3,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Error"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Fehler"
+          }
+        ],
+        "lowSeverity": false
+      },
+      {
+        "level": 4,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "Error"
+          },
+          {
+            "tag": "de-DE",
+            "text": "Fehler"
+          }
+        ],
+        "lowSeverity": false
+      }
+    ],
+    "alarmNumberDescriptions": [
+      {
+        "number": 0,
+        "displayNames": [
+          {
+            "tag": "en-US",
+            "text": "TEST 8.4.10"
+          },
+          {
+            "tag": "de-DE",
+            "text": "TEST 8.4.10"
+          }
+        ]
+      }
+    ]
+  },
+  "notifierMetaData": {
+    "schemaVersion": 15,
+    "metaDataType": "Alarms"
+  },
+  "notifierClientConfig": {
+    "schemaVersion": 5,
+    "actions": [
+      {
+        "input": {
+          "parameters": {
+            "publishingRate": 1000,
+            "samplingRate": 1000
+          },
+          "type": "OpcSubscription"
+        },
+        "output": {
+          "parameters": {
+            "handlingType": "AlarmHandling",
+            "additionalFields": [
+              {
+                "name": "totalOperationCount",
+                "memoryKey": "TotalOperationCount",
+                "isIndex": true
+              }
+            ]
+          },
+          "type": "Queue"
+        }
+      }
+    ]
+  }
+}

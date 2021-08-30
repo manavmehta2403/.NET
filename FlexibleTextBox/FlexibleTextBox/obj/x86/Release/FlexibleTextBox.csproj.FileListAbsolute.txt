@@ -1,0 +1,7 @@
+D:\Project\FlexibleTextBox\FlexibleTextBox\obj\x86\Release\FlexibleTextBox.MainForm.resources
+D:\Project\FlexibleTextBox\FlexibleTextBox\obj\x86\Release\FlexibleTextBox.Properties.Resources.resources
+D:\Project\FlexibleTextBox\FlexibleTextBox\obj\x86\Release\FlexibleTextBox.csproj.GenerateResource.Cache
+D:\Project\FlexibleTextBox\FlexibleTextBox\bin\Release\FlexibleTextBox.exe
+D:\Project\FlexibleTextBox\FlexibleTextBox\bin\Release\FlexibleTextBox.pdb
+D:\Project\FlexibleTextBox\FlexibleTextBox\obj\x86\Release\FlexibleTextBox.exe
+D:\Project\FlexibleTextBox\FlexibleTextBox\obj\x86\Release\FlexibleTextBox.pdb

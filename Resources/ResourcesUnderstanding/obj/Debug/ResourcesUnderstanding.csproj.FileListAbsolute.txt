@@ -1,0 +1,16 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\bin\Debug\ResourcesUnderstanding.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\bin\Debug\ResourcesUnderstanding.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\bin\Debug\ResourcesUnderstanding.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\MainWindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\App.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\MainWindow.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\ResourcesUnderstanding\obj\Debug\ResourcesUnderstanding.pdb

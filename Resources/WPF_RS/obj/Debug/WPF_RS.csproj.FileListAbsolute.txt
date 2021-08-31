@@ -1,0 +1,16 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\bin\Debug\WPF_RS.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\bin\Debug\WPF_RS.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\bin\Debug\WPF_RS.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\MainWindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\MainWindow.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\WPF_RS.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\Resources\WPF_RS\obj\Debug\App.baml

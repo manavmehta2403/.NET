@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_RS", "WPF_RS\WPF_RS.csproj", "{4E8ABB99-5C21-4C8F-8A41-2B3EF74881DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcesUnderstanding", "ResourcesUnderstanding\ResourcesUnderstanding.csproj", "{9CC74127-8493-4385-B199-D3FC3CB5A371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8ABB99-5C21-4C8F-8A41-2B3EF74881DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8ABB99-5C21-4C8F-8A41-2B3EF74881DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8ABB99-5C21-4C8F-8A41-2B3EF74881DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8ABB99-5C21-4C8F-8A41-2B3EF74881DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC74127-8493-4385-B199-D3FC3CB5A371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC74127-8493-4385-B199-D3FC3CB5A371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC74127-8493-4385-B199-D3FC3CB5A371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC74127-8493-4385-B199-D3FC3CB5A371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C22A845-DA61-41A3-AC16-24F5357AAA30}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_RS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_RS" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="825" Background="{StaticResource WindowBackgroundBrush}">
+    <Window.Resources>
+        <sys:String x:Key="strHelloWorld">Hello, world!</sys:String>
+        
+        <sys:String x:Key="ComboBoxTitle">Items:</sys:String>
+        <x:Array x:Key="ComboBoxItems" Type="sys:String">
+            <sys:String>Item #1</sys:String>
+            <sys:String>Item #2</sys:String>
+            <sys:String>Item #3</sys:String>
+        </x:Array>
+    </Window.Resources>
+    <Grid>
+        <TextBlock>Just another "<TextBlock Text="{StaticResource strHelloWorld}" />" example, but with resources!</TextBlock>
+        <Button x:Name="btn" Background="{DynamicResource DynamicColor}"  BorderBrush="{StaticResource BlackBrush}" Content="OK" Width="150" Margin="50,77,593.333,270"/>
+        <Button x:Name="btnOther"  Content="Change to Red" Margin="335,46,321.333,322" Click="btnOther_Click"/>
+        <Button x:Name="btnOther_Copy"  Content="Change to Orange" Margin="335,128,321.333,240" Click="btnOther_Copy_Click"/>
+        <StackPanel Margin="0,200,0.333,0">
+            <Label Content="{StaticResource ComboBoxTitle}" />
+            <ComboBox ItemsSource="{StaticResource ComboBoxItems}"/>
+        </StackPanel>
+    </Grid>
+</Window>

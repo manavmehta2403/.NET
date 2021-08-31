@@ -1,0 +1,13 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.runtimeconfig.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.runtimeconfig.dev.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\bin\Debug\netcoreapp3.1\JSONasText.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSONasText\obj\Debug\netcoreapp3.1\JSONasText.genruntimeconfig.cache

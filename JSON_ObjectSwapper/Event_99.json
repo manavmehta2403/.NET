@@ -1,0 +1,78 @@
+[{
+	"_id" : ObjectId("5d809aceb7339d0d9c999999"),
+	"RecordVersion" : 1,
+	"_ts" : Timestamp(1568709327, 1),
+	"CollectionType" : 4,
+	"RecordType" : 11,
+	"FormatNumber" : 0,
+	"Source" : 4,
+	"Timestamp" : {
+		"DateTime" : ISODate("2019-09-17T14:05:26.758+05:30"),
+		"Ticks" : 637043061267587819
+	},
+	"TotalJobPosition" : 0,
+	"CustomerName" : "wuh",
+	"JobStartUtc" : {
+		"DateTime" : ISODate("2019-09-17T14:02:57.686+05:30"),
+		"Ticks" : 637043059776862555
+	},
+	"JobEndUtc" : {
+		"DateTime" : ISODate("2019-09-17T14:05:26.758+05:30"),
+		"Ticks" : 637043061267587819
+	},
+	"JobLengthInMeterDesired" : 15000,
+	"JobLengthInValuesDesired" : 30612,
+	"JobLengthGoodInMeter" : 0,
+	"JobLengthGoodInValues" : 0,
+	"JobLengthInMeter" : 0,
+	"JobLengthInValues" : 0,
+	"JobName" : "Veggie Mix 7C-0101",
+	"MachineName" : "",
+	"ParametersCreatedInMeter" : false,
+	"ProductNumber" : "",
+	"RecipeName" : "",
+	"RollCount" : 1,
+	"RollLengthInMeter" : 5000,
+	"RollLengthInValues" : 10204,
+	"ValuesPerCylinder" : 1,
+	"WasteInMeter" : 0
+},
+{
+	"_id" : ObjectId("5d809aceb7339d0d9c000000"),
+	"RecordVersion" : 1,
+	"_ts" : Timestamp(1568709327, 1),
+	"CollectionType" : 4,
+	"RecordType" : 11,
+	"FormatNumber" : 0,
+	"Source" : 4,
+	"Timestamp" : {
+		"DateTime" : ISODate("2019-09-17T14:05:26.758+05:30"),
+		"Ticks" : 637043061267587819
+	},
+	"TotalJobPosition" : 0,
+	"CustomerName" : "wuh",
+	"JobStartUtc" : {
+		"DateTime" : ISODate("2019-09-17T14:02:57.686+05:30"),
+		"Ticks" : 637043059776862555
+	},
+	"JobEndUtc" : {
+		"DateTime" : ISODate("2019-09-17T14:05:26.758+05:30"),
+		"Ticks" : 637043061267587819
+	},
+	"JobLengthInMeterDesired" : 15000,
+	"JobLengthInValuesDesired" : 30612,
+	"JobLengthGoodInMeter" : 0,
+	"JobLengthGoodInValues" : 0,
+	"JobLengthInMeter" : 0,
+	"JobLengthInValues" : 0,
+	"JobName" : "Veggie Mix 7C-0101",
+	"MachineName" : "",
+	"ParametersCreatedInMeter" : false,
+	"ProductNumber" : "",
+	"RecipeName" : "",
+	"RollCount" : 1,
+	"RollLengthInMeter" : 5000,
+	"RollLengthInValues" : 10204,
+	"ValuesPerCylinder" : 1,
+	"WasteInMeter" : 0
+}]

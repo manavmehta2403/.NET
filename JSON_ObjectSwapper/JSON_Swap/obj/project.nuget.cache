@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D40z8vPU2TYeBjVV7KvjzCG/zAwdfoiYRkV7S6AzzsEHPcEzitBXZfvu+zO0YIFfgzUyUSlH+jg2V8Tm6NTQjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\JSON_ObjectSwapper\\JSON_Swap\\JSON_Swap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehtama\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

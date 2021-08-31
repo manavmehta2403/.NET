@@ -1,0 +1,15 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.runtimeconfig.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.runtimeconfig.dev.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\JSON_Swap.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.genruntimeconfig.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\JSON_ObjectSwapper\JSON_Swap\obj\Debug\netcoreapp3.1\JSON_Swap.csproj.CopyComplete

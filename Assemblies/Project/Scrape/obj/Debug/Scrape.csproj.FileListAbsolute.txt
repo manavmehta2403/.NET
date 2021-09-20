@@ -1,6 +1,0 @@
-C:\Users\manav\Documents\Assemblies\Project\Scrape\bin\Debug\Scrape.dll
-C:\Users\manav\Documents\Assemblies\Project\Scrape\bin\Debug\Scrape.pdb
-C:\Users\manav\Documents\Assemblies\Project\Scrape\obj\Debug\Scrape.csprojAssemblyReference.cache
-C:\Users\manav\Documents\Assemblies\Project\Scrape\obj\Debug\Scrape.csproj.CoreCompileInputs.cache
-C:\Users\manav\Documents\Assemblies\Project\Scrape\obj\Debug\Scrape.dll
-C:\Users\manav\Documents\Assemblies\Project\Scrape\obj\Debug\Scrape.pdb

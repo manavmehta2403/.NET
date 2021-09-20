@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a945c86d-d248-47bb-9aa2-96c7384099ef": {
+      "ProjectGuid": "a945c86d-d248-47bb-9aa2-96c7384099ef",
+      "DisplayName": "WPFUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

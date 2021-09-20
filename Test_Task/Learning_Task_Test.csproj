@@ -57,7 +57,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Learning_Task\Learning_Task.csproj">
+    <ProjectReference Include="..\AppConfig_Task\Learning_Task.csproj">
       <Project>{77042fbb-a5e0-41d1-8296-05a9a40d59ea}</Project>
       <Name>Learning_Task</Name>
     </ProjectReference>

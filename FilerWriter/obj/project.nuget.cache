@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/dU1idk1pBKhFI9sI5TrlUpSUGvM4YeV180VB9dNUFgo2HqPUUQdScxwUKmptgCUlZooTMHLS1ntT8tKEQKNoA==",
+  "dgSpecHash": "1vMtA4o+b3ODNISLgs+j1VMXPqYfq3lUCqhKA0X/+d1EA2lanh7WZ1CvzABIJRFrWA7Ce5nDbOCHgeUlFW9qAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\FilerWriter\\FilerWriter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\.NET\\FilerWriter\\FilerWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehtama\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

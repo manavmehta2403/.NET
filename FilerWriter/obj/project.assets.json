@@ -9,25 +9,22 @@
   },
   "packageFolders": {
     "C:\\Users\\mehtama\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\FilerWriter\\FilerWriter.csproj",
+      "projectUniqueName": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\.NET\\FilerWriter\\FilerWriter.csproj",
       "projectName": "FilerWriter",
-      "projectPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\FilerWriter\\FilerWriter.csproj",
+      "projectPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\.NET\\FilerWriter\\FilerWriter.csproj",
       "packagesPath": "C:\\Users\\mehtama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\FilerWriter\\obj\\",
+      "outputPath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\.NET\\FilerWriter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\mehtama\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.9, 5.0.9]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
       }
     }
   }

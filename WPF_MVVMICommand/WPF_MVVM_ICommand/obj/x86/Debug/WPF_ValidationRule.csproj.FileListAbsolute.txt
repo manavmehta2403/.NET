@@ -1,0 +1,11 @@
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\bin\Debug\WPF_ValidationRule.exe
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\bin\Debug\WPF_ValidationRule.pdb
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\View\Person.baml
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\View\Person.g.cs
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\App.g.cs
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule_MarkupCompile.cache
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule.g.resources
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule.Properties.Resources.resources
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule.csproj.GenerateResource.Cache
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule.exe
+c:\users\temp.macfee\documents\visual studio 2010\Projects\Prabhat\WPF_ValidationRule\WPF_ValidationRule\obj\x86\Debug\WPF_ValidationRule.pdb

@@ -1,0 +1,17 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\bin\Debug\netcoreapp3.1\ButtonCustomControl.deps.json
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\bin\Debug\netcoreapp3.1\ButtonCustomControl.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\bin\Debug\netcoreapp3.1\ButtonCustomControl.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.csproj.AssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.AssemblyInfoInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.AssemblyInfo.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.dll
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\ButtonCustomControl.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\MainMindow.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ButtonCustomTriggering\ButtonCustomControl\obj\Debug\netcoreapp3.1\MainMindow.baml

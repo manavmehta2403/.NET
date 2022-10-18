@@ -1,0 +1,7 @@
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe.config
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\bin\Debug\AddCalculator.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\obj\Debug\AddCalculator.csprojAssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\obj\Debug\AddCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\obj\Debug\AddCalculator.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\LearningCurve\AddCalculator\AddCalculator\obj\Debug\AddCalculator.pdb

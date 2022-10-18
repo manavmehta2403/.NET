@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2bd7232-d2fd-4000-84f0-5e4d6b6e1e04": {
+      "ProjectGuid": "a2bd7232-d2fd-4000-84f0-5e4d6b6e1e04",
+      "DisplayName": "Triggers",
+      "ColorIndex": 0
+    },
+    "41c49bb6-7744-4942-a1c9-116e5b0ae47b": {
+      "ProjectGuid": "41c49bb6-7744-4942-a1c9-116e5b0ae47b",
+      "DisplayName": "StylesDemo",
+      "ColorIndex": 1
+    },
+    "295e68a3-2353-47ec-9ca2-8e149182b710": {
+      "ProjectGuid": "295e68a3-2353-47ec-9ca2-8e149182b710",
+      "DisplayName": "ButtonCustomControl",
+      "ColorIndex": 2
+    },
+    "f60dad60-bdec-455b-8b90-85b05e4b0e2b": {
+      "ProjectGuid": "f60dad60-bdec-455b-8b90-85b05e4b0e2b",
+      "DisplayName": "MultiTriggers",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

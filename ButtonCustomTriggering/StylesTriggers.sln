@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31105.61
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylesDemo", "StylesDemo\StylesDemo.csproj", "{41C49BB6-7744-4942-A1C9-116E5B0AE47B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triggers", "Triggers\Triggers.csproj", "{A2BD7232-D2FD-4000-84F0-5E4D6B6E1E04}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTriggers", "MultiTriggers\MultiTriggers.csproj", "{F60DAD60-BDEC-455B-8B90-85B05E4B0E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonCustomControl", "ButtonCustomControl\ButtonCustomControl.csproj", "{295E68A3-2353-47EC-9CA2-8E149182B710}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F60DAD60-BDEC-455B-8B90-85B05E4B0E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F60DAD60-BDEC-455B-8B90-85B05E4B0E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F60DAD60-BDEC-455B-8B90-85B05E4B0E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295E68A3-2353-47EC-9CA2-8E149182B710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295E68A3-2353-47EC-9CA2-8E149182B710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295E68A3-2353-47EC-9CA2-8E149182B710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295E68A3-2353-47EC-9CA2-8E149182B710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlCBnE+MdCe8ULAWEF71rxInziBvWgB9pklCjA29Wq1Nbv7JB2jp+CGo7eMa8meYZHlYmFR+R3ZtXnEIAd9TJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehtama\\OneDrive - Windmöller & Hölscher KG\\Dokumente\\Windmoller-Learning\\.NET\\ContosoCrafts\\ContosoCrafts\\ContosoCrafts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehtama\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mehtama\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\mehtama\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,9 +2,9 @@
 {
 	public class Startup
 	{
-		public void ConfigurationService(IServiceCollection	service) 
+		public void ConfigurationService(IServiceCollection	services) 
 		{
-			
+			services.AddMvc();
 		}	
 
 		public void Configure(IApplicationBuilder applicationBuilder, IWebHostEnvironment webHostEnvironment)

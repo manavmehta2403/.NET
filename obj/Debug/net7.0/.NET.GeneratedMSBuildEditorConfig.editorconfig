@@ -1,0 +1,1093 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _NET
+build_property.RootNamespace = _NET
+build_property.ProjectDir = C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Components/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXENvbXBvbmVudHNcUHJvZHVjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQXBpR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQ29sbGVjdGlvbk1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQ29tcGxleFR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcRGljdGlvbmFyeU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcRW51bVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSGVscFBhZ2VBcGlNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSW52YWxpZFNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcS2V5VmFsdWVQYWlyTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcTW9kZWxEZXNjcmlwdGlvbkxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcUGFyYW1ldGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcU2FtcGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcU2ltcGxlVHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcVGV4dFNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXFJlc291cmNlTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxBcmVhc1xIZWxwUGFnZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcQXBpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xBcGlHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xDb2xsZWN0aW9uTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xDb21wbGV4VHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xEaWN0aW9uYXJ5TW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xFbnVtVHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xIZWxwUGFnZUFwaU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xJbWFnZVNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xJbnZhbGlkU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xLZXlWYWx1ZVBhaXJNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xNb2RlbERlc2NyaXB0aW9uTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xQYXJhbWV0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xTYW1wbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xTaW1wbGVUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xUZXh0U2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcUmVzb3VyY2VNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXEFyZWFzXEhlbHBQYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/bin/Release/Publish/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxiaW5cUmVsZWFzZVxQdWJsaXNoXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxBcGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEFwaUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbGxlY3Rpb25Nb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbXBsZXhUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXERpY3Rpb25hcnlNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEVudW1UeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEhlbHBQYWdlQXBpTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEltYWdlU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEludmFsaWRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEtleVZhbHVlUGFpck1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXE1vZGVsRGVzY3JpcHRpb25MaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNhbXBsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNpbXBsZVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFRleHRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxSZXNvdXJjZU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcQXJlYXNcSGVscFBhZ2VcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/obj/Release/Package/PackageTmp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/API/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEFQSVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxBcGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEFwaUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbGxlY3Rpb25Nb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbXBsZXhUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXERpY3Rpb25hcnlNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEVudW1UeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEhlbHBQYWdlQXBpTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEltYWdlU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEludmFsaWRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEtleVZhbHVlUGFpck1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXE1vZGVsRGVzY3JpcHRpb25MaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNhbXBsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNpbXBsZVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFRleHRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxSZXNvdXJjZU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcQXJlYXNcSGVscFBhZ2VcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/Auth/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXEF1dGhcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxBcGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEFwaUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbGxlY3Rpb25Nb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbXBsZXhUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXERpY3Rpb25hcnlNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEVudW1UeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEhlbHBQYWdlQXBpTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEltYWdlU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEludmFsaWRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEtleVZhbHVlUGFpck1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXE1vZGVsRGVzY3JpcHRpb25MaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNhbXBsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNpbXBsZVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFRleHRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxSZXNvdXJjZU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/ConsoleApp/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXENvbnNvbGVBcHBcQXJlYXNcSGVscFBhZ2VcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcQXBpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xBcGlHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xDb2xsZWN0aW9uTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xDb21wbGV4VHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xEaWN0aW9uYXJ5TW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xFbnVtVHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xIZWxwUGFnZUFwaU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xJbWFnZVNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xJbnZhbGlkU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xLZXlWYWx1ZVBhaXJNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xNb2RlbERlc2NyaXB0aW9uTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xQYXJhbWV0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xTYW1wbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xTaW1wbGVUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcRGlzcGxheVRlbXBsYXRlc1xUZXh0U2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXEhlbHBcUmVzb3VyY2VNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/DemoLibrary/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXERlbW9MaWJyYXJ5XEFyZWFzXEhlbHBQYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxBcGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEFwaUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbGxlY3Rpb25Nb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXENvbXBsZXhUeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXERpY3Rpb25hcnlNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEVudW1UeXBlTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEhlbHBQYWdlQXBpTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEltYWdlU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEludmFsaWRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXEtleVZhbHVlUGFpck1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXE1vZGVsRGVzY3JpcHRpb25MaW5rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNhbXBsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFNpbXBsZVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxEaXNwbGF5VGVtcGxhdGVzXFRleHRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcSGVscFxSZXNvdXJjZU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WcfService/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdjZlNlcnZpY2VcQXJlYXNcSGVscFBhZ2VcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/Api.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQXBpR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQ29sbGVjdGlvbk1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcQ29tcGxleFR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcRGljdGlvbmFyeU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcRW51bVR5cGVNb2RlbERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSGVscFBhZ2VBcGlNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcSW52YWxpZFNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcS2V5VmFsdWVQYWlyTW9kZWxEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcTW9kZWxEZXNjcmlwdGlvbkxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcUGFyYW1ldGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcU2FtcGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcU2ltcGxlVHlwZU1vZGVsRGVzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXERpc3BsYXlUZW1wbGF0ZXNcVGV4dFNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Help/ResourceModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xIZWxwXFJlc291cmNlTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/APIandWCF/WPFApp/Areas/HelpPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVBJYW5kV0NGXFdQRkFwcFxBcmVhc1xIZWxwUGFnZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts-master/src/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0cy1tYXN0ZXJcc3JjXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xNb3ZpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xNb3ZpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xNb3ZpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xNb3ZpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xNb3ZpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xDdXN0b21lcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xDdXN0b21lcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xDdXN0b21lcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xDdXN0b21lcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xDdXN0b21lcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/azure/app-insights-aspnet-core-quickstart/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGF6dXJlXGFwcC1pbnNpZ2h0cy1hc3BuZXQtY29yZS1xdWlja3N0YXJ0XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Crash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cQ3Jhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Crash2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cQ3Jhc2gyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Expected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cRXhwZWN0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/HandledException.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cSGFuZGxlZEV4Y2VwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/LoadGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cTG9hZEdlbmVyYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Slow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cU2xvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/Slow2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cU2xvdzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Problem/UnhandledException.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFByb2JsZW1cVW5oYW5kbGVkRXhjZXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/core/tutorials/buggyamb/BuggyAmb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNvcmVcdHV0b3JpYWxzXGJ1Z2d5YW1iXEJ1Z2d5QW1iXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxmaW5pc2hlZFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxmaW5pc2hlZFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxmaW5pc2hlZFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxmaW5pc2hlZFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/finished/SimpleFeedReader/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxmaW5pc2hlZFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/start/SimpleFeedReader/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxzdGFydFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/start/SimpleFeedReader/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxzdGFydFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/start/SimpleFeedReader/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxzdGFydFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/start/SimpleFeedReader/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxzdGFydFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/_Learning_/samples/csharp/tutorials/nullable-reference-migration/start/SimpleFeedReader/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xlYXJuaW5nX1xzYW1wbGVzXGNzaGFycFx0dXRvcmlhbHNcbnVsbGFibGUtcmVmZXJlbmNlLW1pZ3JhdGlvblxzdGFydFxTaW1wbGVGZWVkUmVhZGVyXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/ContosoCrafts/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xDb250b3NvQ3JhZnRzXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-tlqvpca9s2
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ContosoCrafts/RazorPageMovie/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udG9zb0NyYWZ0c1xSYXpvclBhZ2VNb3ZpZVxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-nlpvrqez8d
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/3-web-sites/ContosoPizza/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcMy13ZWItc2l0ZXNcQ29udG9zb1BpenphXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-rh9guqbhzt
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ef-core-for-beginners-main/parts/5-performance-tips/ContosoPizza/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWYtY29yZS1mb3ItYmVnaW5uZXJzLW1haW5ccGFydHNcNS1wZXJmb3JtYW5jZS10aXBzXENvbnRvc29QaXp6YVxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-lm9xz3oi2p
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/MyWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlXZWJBcHBcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tt4gma5a1q
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-elmt84yn10
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/WebApplication/WebApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb25cV2ViQXBwbGljYXRpb25cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jorqfmvbke

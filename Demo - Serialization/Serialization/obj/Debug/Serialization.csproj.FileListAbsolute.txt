@@ -1,0 +1,6 @@
+Z:\projectos\Serialization\Serialization\bin\Debug\Serialization.exe.config
+Z:\projectos\Serialization\Serialization\bin\Debug\Serialization.exe
+Z:\projectos\Serialization\Serialization\bin\Debug\Serialization.pdb
+Z:\projectos\Serialization\Serialization\obj\Debug\ResolveAssemblyReference.cache
+Z:\projectos\Serialization\Serialization\obj\Debug\Serialization.exe
+Z:\projectos\Serialization\Serialization\obj\Debug\Serialization.pdb

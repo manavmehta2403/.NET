@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_ASAP", "ASP_ASAP\ASP_ASAP.csproj", "{422864C8-2015-47D5-B097-723B028A7F58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "ASP_ASAP\BookStore.csproj", "{422864C8-2015-47D5-B097-723B028A7F58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETConsole", "ASP.NETConsole\ASP.NETConsole.csproj", "{E5DBC792-88D7-4147-B7EB-01233C0E695E}"
 EndProject

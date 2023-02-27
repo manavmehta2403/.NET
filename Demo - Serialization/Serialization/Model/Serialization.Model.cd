@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Serialization.Model.Book">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serialization.Model.CD">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serialization.Model.ShoppingCart">
+    <Position X="7" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Items" Type="Serialization.Model.ShoppingItem">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.214" Y="0.07" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAIAAAAAAAAQAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Items" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Serialization.Model.ShoppingItem">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ShoppingItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serialization.Model.User">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <AssociationLine Name="Type" Type="Serialization.Model.UserType">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.485" Y="0.05" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="DeliveryAddress" Type="Serialization.Model.Address">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.204" Y="0.07" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="UserAddress" Type="Serialization.Model.Address">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.266" Y="0.091" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ShoppingCart" Type="Serialization.Model.ShoppingCart">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.204" Y="0.07" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAEAAACAAAIAAAGAAAAAAAgAAAAgAAQAAAAAAAAg=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Type" />
+      <Property Name="DeliveryAddress" />
+      <Property Name="UserAddress" />
+      <Property Name="ShoppingCart" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Serialization.Model.Dvd">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dvd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serialization.Model.Address">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAIIAAAAAAAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Model\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Serialization.Model.UserType">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\UserType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

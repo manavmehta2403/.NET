@@ -2,6 +2,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddMvc();
+builder.Services.AddRazorPages();
+
+#if DEBUG
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+#endif
 
 var app = builder.Build();
 
@@ -16,11 +21,12 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-//app.UseStaticFiles(new StaticFileOptions()
-//{
-//  FileProvider = new PhysicalAddress(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")),
-//  RequestPath = "~/wwwroot"
-//});
+// Add more static files
+////app.UseStaticFiles(new StaticFileOptions()
+////{
+////  FileProvider = new PhysicalAddress(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")),
+////  RequestPath = "~/wwwroot"
+////});
 
 app.UseRouting();
 
@@ -28,7 +34,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Book}/{action=GetAllBooks}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 
 app.Run();

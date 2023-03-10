@@ -12,12 +12,16 @@ build_property.RootNamespace = BookStore
 build_property.ProjectDir = C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ASP.NETLearnig\BookStore\BookStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\ASP.NETLearnig\BookStore\BookStore
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ASP.NETLearnig/BookStore/BookStore/Views/Book/GetAllBooks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRBbGxCb29rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ASP.NETLearnig/BookStore/BookStore/Views/Book/GetBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mehtama/OneDrive - Windmöller & Hölscher KG/Dokumente/Windmoller-Learning/.NET/ASP.NETLearnig/BookStore/BookStore/Views/Home/AboutUs.cshtml]

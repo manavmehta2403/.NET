@@ -1,8 +1,60 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+  // view data is used for specific view from the razor page
+  ViewData["Title"] = "Home Page";
+
+  ViewData["Book"] = new BookModel { Id = 1000, Title = "ViewDataRazor" };
+  var BM = ViewData["Book"] as BookModel;
+
+  //Storing dynamic data
+  dynamic data = ViewBag.Data;
+
+  //Storing Models
+  var bookModel = ViewData["bookCont"] as BookModel;
 }
 
+@section breadcrumb
+  {
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Home</a></li>
+      <li class="breadcrumb-item"><a href="#">Page1</a></li>
+      <li class="breadcrumb-item active"><a href="#">Page2</a></li>
+    </ol>
+  </nav>
+}
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+  <h1 class="display-4">Welcome</h1>
+  <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>. </p>
+  <p>
+    ViewBag is from controller
+    <br />
+    @ViewBag.Value
+    <br />
+    @ViewBag.DynamicData
+    <br />
+    @data.value
+    <br />
+    @ViewBag.Type.Id  @ViewBag.Type.Title
+  </p>
+
+  <hr />
+
+  <p>
+    ViewData is from razor page (view)
+    <br />
+    @ViewBag.Title OR @ViewData["Title"]
+    <br />
+    @ViewData["Book"] (To Access data --> @BM.Id and @BM.Title)
+    <br />
+    @ViewBag.Type.Id  @ViewBag.Type.Title OR @bookModel.Id @bookModel.Title 
+  </p>
 </div>
+<h3>ViewData Custom Attribute @ViewData["HomeString"]</h3>
+
+@section HomeIndexSection{
+  <script>
+    $(document).ready(function () {
+      alert("it is not at the bottom");
+    })
+  </script>
+}

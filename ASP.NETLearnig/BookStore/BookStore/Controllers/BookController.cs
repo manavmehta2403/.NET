@@ -1,33 +1,45 @@
 ﻿using BookStore.Models;
 using BookStore.Repositary;
 using Microsoft.AspNetCore.Mvc;
+using System.Dynamic;
 
 namespace BookStore.Controllers
 {
-  public class BookController : Controller
-  {
+	public class BookController : Controller
+	{
 
-    private readonly BookRespositary _bookRespositary;
+		private readonly BookRespositary _bookRespositary;
 
-    public BookController() 
-    {
-      _bookRespositary = new BookRespositary();
-    } 
-    public ViewResult GetAllBooks()
-    {
-      var data = _bookRespositary.GetAllBooks();
+		//Better way oƒusing viewData
+		[ViewData]
+    public string Title { get; set; }
 
-      return View(data);
-    }
+		public BookController()
+		{
+			_bookRespositary = new BookRespositary();
+		}
+		public ViewResult GetAllBooks()
+		{
+			Title = "Get All books";
 
-    public BookModel GetBook(int id)
-    {
-      return _bookRespositary.GetBook(id);
-    }
+			dynamic data = new ExpandoObject();
+			data.Book = _bookRespositary.GetAllBooks();
+			data.Type = "CS";
 
-    public List<BookModel> SearchBooks(string book, string author)
-    {
-      return _bookRespositary.SearchBook(book,author);
-    }
-  }
+
+			return View(data);
+		}
+
+		public ViewResult GetBook(int id)
+		{
+			Title = "GetBook";
+			var data = _bookRespositary.GetBook(id);
+			return View(data);
+		}
+
+		public List<BookModel> SearchBooks(string book, string author)
+		{
+			return _bookRespositary.SearchBook(book, author);
+		}
+	}
 }

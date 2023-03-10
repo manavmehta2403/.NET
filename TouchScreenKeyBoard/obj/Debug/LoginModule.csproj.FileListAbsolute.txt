@@ -16,3 +16,21 @@ C:\Users\mehtama\Downloads\TouchScreenKeyBoard\obj\Debug\LoginModule.csproj.Gene
 C:\Users\mehtama\Downloads\TouchScreenKeyBoard\obj\Debug\LoginModule.csproj.CoreCompileInputs.cache
 C:\Users\mehtama\Downloads\TouchScreenKeyBoard\obj\Debug\LoginModule.exe
 C:\Users\mehtama\Downloads\TouchScreenKeyBoard\obj\Debug\LoginModule.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\bin\Debug\LoginModule.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\bin\Debug\LoginModule.pdb
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.csproj.AssemblyReference.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\Window1.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\Login\LoginView.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\Window1.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\App.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule_MarkupCompile.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule_MarkupCompile.lref
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\Login\LoginView.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\Themes\Generic.baml
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.g.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.Properties.Resources.resources
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.csproj.GenerateResource.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.csproj.CoreCompileInputs.cache
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.exe
+C:\Users\mehtama\OneDrive - Windmöller & Hölscher KG\Dokumente\Windmoller-Learning\.NET\TouchScreenKeyBoard\obj\Debug\LoginModule.pdb

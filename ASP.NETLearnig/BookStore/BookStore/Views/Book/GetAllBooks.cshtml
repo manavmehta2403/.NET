@@ -1,7 +1,13 @@
 ﻿
-@{
-    ViewData["Title"] = "GetAllBooks";
-}
 
-<h1>GetAllBooks</h1>
-
+<div class="container">
+	<h1>GetAllBooks ok</h1>
+	@foreach (var book in Model.Book)
+	{
+		<h3>@book.Id @book.Author	@Model.Type</h3>
+		<div class="btn-group">
+		<a href="/book/getbook?id=@book.Id" class="btn btn-sm btn-outline-info"> View Details </a>
+		</div>
+		<br />
+	}
+</div>

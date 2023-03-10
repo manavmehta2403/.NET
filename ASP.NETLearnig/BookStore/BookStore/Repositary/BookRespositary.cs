@@ -18,14 +18,14 @@ namespace BookStore.Repositary
     //}
     //public void DeleteBook(int id) 
     //{
-      
+
     //}
     public List<BookModel> SearchBook(string book, string author)
     {
       return DataSource().Where(x => x.Title.Contains(book) || x.Author.Contains(author)).ToList();
     }
 
-    private List<BookModel> DataSource() 
+    private List<BookModel> DataSource()
     {
       return new List<BookModel>()
       {

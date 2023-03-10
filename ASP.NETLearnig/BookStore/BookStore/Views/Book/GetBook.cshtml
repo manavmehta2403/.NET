@@ -1,0 +1,18 @@
+﻿
+@model BookModel
+@{
+  //Overloads the ViewData from controller
+  ViewData["Title"] = $"GetBook {Model.Title}" ;
+}
+
+<h1>GetBook</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      @Model.Title
+    </div>
+    <div class="col-md-6">
+      @Model.Author
+    </div>
+  </div>
+</div>

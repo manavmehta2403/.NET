@@ -220,7 +220,7 @@
       <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="7" Content="Shift" kbd:Keyboard.KeyBehaviour="InstantaneousModifier" kbd:Keyboard.KeyCode="Shift"/>
       <Button Grid.Row="3" Grid.Column="7" Grid.ColumnSpan="3" Content="Z" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkZ"/>
       <Button Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="3" Content="X" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkX"/>
-      <Button Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="4" Content="C" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkC" Margin="4,1,15,1"/>
+      <Button Grid.Row="3" Grid.Column="13" Grid.ColumnSpan="3" Content="C" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkC" />
       <Button Grid.Row="3" Grid.Column="16" Grid.ColumnSpan="3" Content="V" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkV"/>
       <Button Grid.Row="3" Grid.Column="19" Grid.ColumnSpan="3" Content="B" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkB"/>
       <Button Grid.Row="3" Grid.Column="22" Grid.ColumnSpan="3" Content="N" kbd:Keyboard.KeyBehaviour="VirtualKey" kbd:Keyboard.KeyCode="VkN"/>

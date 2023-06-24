@@ -1,0 +1,28 @@
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\App.g.cs
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample_MarkupCompile.cache
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.g.resources
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.Properties.Resources.resources
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\bin\Debug\DispatcherTimerSample.exe
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\bin\Debug\DispatcherTimerSample.pdb
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.exe
+C:\Users\Chirag Prajapati\Desktop\DispatcherTimer\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.pdb
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.exe
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.pdb
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\bin\Debug\DispatcherTimerSample.exe
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\bin\Debug\DispatcherTimerSample.pdb
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\MainWindow.baml
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\MainWindow.g.cs
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\App.g.cs
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample_MarkupCompile.cache
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.g.resources
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.Properties.Resources.resources
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code Scratcher\Sample Code\WPF Example\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jay\Desktop\How to create timer in WPF\How to create timer in WPF\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.exe
+C:\Users\Jay\Desktop\How to create timer in WPF\How to create timer in WPF\DispatcherTimerSample\DispatcherTimerSample\obj\x86\Debug\DispatcherTimerSample.pdb
